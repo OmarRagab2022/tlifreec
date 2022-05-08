@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739214955539",
+    "project_id": "tilfreec",
+    "storage_bucket": "tilfreec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739214955539:android:c5c4455c0fd7794278dbe6",
+        "android_client_info": {
+          "package_name": "com.example.tlifreec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739214955539-bg7qhlgbrmn8egqi4chisaeopbepr5ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6_kVxZDhIECeHAx9YH5CncDhK6vrzvDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739214955539-bg7qhlgbrmn8egqi4chisaeopbepr5ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
